@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(153, 224, 224);
+    color: black;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+header{
+    background-color: azure;
+    color: beige;
+    padding: 10px 20px;
+    text-align: center;
+}
+h1{ 
+    color: blueviolet;
+background-color: grey;
+}
+
+
+    
+section{
+    padding: 20px ;
+    text-align: center;
+
+}
+footer{
+    background-color: beige;
+    color: rgb(22, 48, 48);
+    text-align: center;
+    bottom: 0;
+    width: 100;
+}
+
+
+
+
