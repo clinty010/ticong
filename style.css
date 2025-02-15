@@ -1,0 +1,22 @@
+#Foods { 
+    background-color: antiquewhite;
+    margin: 21px; 
+    padding: 20px;
+    
+}
+#Bills{ 
+    background-color: rgb(136, 211, 224);
+    margin: 21px; 
+    padding: 20px;
+    
+}
+
+header { 
+    text-align: center;
+    color: rgb(138, 21, 21);
+    font-size: 200%;
+}
+footer { 
+    text-align: center;
+}
+
